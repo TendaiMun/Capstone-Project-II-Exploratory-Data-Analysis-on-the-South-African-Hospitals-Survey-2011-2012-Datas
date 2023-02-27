@@ -6,7 +6,7 @@ In this project I cleaned, organised, analysed and visualised data extracted fro
 
 ## How the data was analysed
 
-The data was analysed using various methods in the jupiter notebook file saved as follows (docs/SA Hospital Survey.ipynb)
+The data was analysed using various methods in the jupyter notebook file saved as follows (docs/SA Hospital Survey.ipynb)
 
 
 The the main findings are saved in the EDA report that contains several data visualisations (docs/EDA_doc-SA Hospital Survey.ipynb)
